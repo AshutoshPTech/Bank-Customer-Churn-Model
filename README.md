@@ -15,7 +15,7 @@ In this project, I worked as a data science & machine learning intern at YBI Fou
 
 ## Dataset
 
-The dataset used for this project is not provided in this repository due to privacy concerns. However, you can use your own dataset with similar features for this analysis. Ensure that your dataset has the necessary features required for building a customer churn model.
+The dataset used for this project is  provided in this repository. However, you can use your own dataset with similar features for this analysis. Ensure that your dataset has the necessary features required for building a customer churn model.
 
 ## Data Preprocessing
 
